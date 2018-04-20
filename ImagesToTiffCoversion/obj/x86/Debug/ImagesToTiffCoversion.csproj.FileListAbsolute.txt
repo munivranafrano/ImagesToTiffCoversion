@@ -1,0 +1,20 @@
+C:\Users\frano\AppData\Local\Temporary Projects\ImagesToTiffCoversion\obj\x86\Debug\ImagesToTiffCoversion.csprojResolveAssemblyReference.cache
+C:\Users\frano\AppData\Local\Temporary Projects\ImagesToTiffCoversion\obj\x86\Debug\ImagesToTiffCoversion.Form1.resources
+C:\Users\frano\AppData\Local\Temporary Projects\ImagesToTiffCoversion\obj\x86\Debug\ImagesToTiffCoversion.Properties.Resources.resources
+C:\Users\frano\AppData\Local\Temporary Projects\ImagesToTiffCoversion\obj\x86\Debug\ImagesToTiffCoversion.csproj.GenerateResource.Cache
+C:\Users\frano\AppData\Local\Temporary Projects\ImagesToTiffCoversion\bin\Debug\ImagesToTiffCoversion.exe
+C:\Users\frano\AppData\Local\Temporary Projects\ImagesToTiffCoversion\bin\Debug\ImagesToTiffCoversion.pdb
+C:\Users\frano\AppData\Local\Temporary Projects\ImagesToTiffCoversion\bin\Debug\MySql.Data.dll
+C:\Users\frano\AppData\Local\Temporary Projects\ImagesToTiffCoversion\bin\Debug\MySql.Data.xml
+C:\Users\frano\AppData\Local\Temporary Projects\ImagesToTiffCoversion\obj\x86\Debug\ImagesToTiffCoversion.exe
+C:\Users\frano\AppData\Local\Temporary Projects\ImagesToTiffCoversion\obj\x86\Debug\ImagesToTiffCoversion.pdb
+C:\Users\frano\documents\visual studio 2010\Projects\ImagesToTiffCoversion\ImagesToTiffCoversion\obj\x86\Debug\ImagesToTiffCoversion.exe
+C:\Users\frano\documents\visual studio 2010\Projects\ImagesToTiffCoversion\ImagesToTiffCoversion\obj\x86\Debug\ImagesToTiffCoversion.pdb
+C:\Users\frano\documents\visual studio 2010\Projects\ImagesToTiffCoversion\ImagesToTiffCoversion\bin\Debug\ImagesToTiffCoversion.exe
+C:\Users\frano\documents\visual studio 2010\Projects\ImagesToTiffCoversion\ImagesToTiffCoversion\bin\Debug\ImagesToTiffCoversion.pdb
+C:\Users\frano\documents\visual studio 2010\Projects\ImagesToTiffCoversion\ImagesToTiffCoversion\bin\Debug\MySql.Data.dll
+C:\Users\frano\documents\visual studio 2010\Projects\ImagesToTiffCoversion\ImagesToTiffCoversion\bin\Debug\MySql.Data.xml
+C:\Users\frano\documents\visual studio 2010\Projects\ImagesToTiffCoversion\ImagesToTiffCoversion\obj\x86\Debug\ImagesToTiffCoversion.csprojResolveAssemblyReference.cache
+C:\Users\frano\documents\visual studio 2010\Projects\ImagesToTiffCoversion\ImagesToTiffCoversion\obj\x86\Debug\ImagesToTiffCoversion.Form1.resources
+C:\Users\frano\documents\visual studio 2010\Projects\ImagesToTiffCoversion\ImagesToTiffCoversion\obj\x86\Debug\ImagesToTiffCoversion.Properties.Resources.resources
+C:\Users\frano\documents\visual studio 2010\Projects\ImagesToTiffCoversion\ImagesToTiffCoversion\obj\x86\Debug\ImagesToTiffCoversion.csproj.GenerateResource.Cache
